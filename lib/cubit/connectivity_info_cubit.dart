@@ -30,7 +30,7 @@ class ConnectivityInfoCubit extends Cubit<ConnectivityInfoState> {
   Future<void> _updateConnectivityStatus(ConnectivityResult result) async {
     emit(ConnectivityInfoState(ConnectivityInfoStatus.connecting));
 
-    await Future.delayed(const Duration(seconds: 3));
+    await Future.delayed(const Duration(seconds: 2));
 
     switch (result) {
       case ConnectivityResult.wifi:
