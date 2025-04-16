@@ -1,16 +1,16 @@
-# network_connectivity_checker_app_flutter
+<div align="center">
 
-flutter app.
+<h1>Network Connectivity Checker</h1>
 
-## Getting Started
+### Explore the Android app on:
+[![Google Drive](https://img.shields.io/badge/google%20Drive-Visit-blue?style=for-the-badge&logo=googledrive)](addlinkhere) 
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About
+##### This app was made using FLutter and Dart language.
+##### This app was made using BLoC state management.
+##### Dependencies: flutter_bloc, connectivity_plus, and internet_connection_checker.
+-------------------------
+## Features
+##### Can check what connection do you have (WiFi and Mobile Data).
+##### Able to detect if you have internet access.
