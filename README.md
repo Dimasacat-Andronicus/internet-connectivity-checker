@@ -8,7 +8,7 @@
 
 ## About
 ##### This app was made using Flutter and Dart language.
-##### This app was made using BLoC state management.
+##### This app was made using Bloc/CUbit state management.
 ##### Dependencies: flutter_bloc, connectivity_plus, and internet_connection_checker.
 -------------------------
 ## Features
